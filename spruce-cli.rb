@@ -4,6 +4,7 @@ class SpruceCli < Formula
     homepage "https://github.com/sprucelabsai-community/spruce-cli-workspace"
     url "https://registry.npmjs.org/@sprucelabs/spruce-cli/-/spruce-cli-latest.tgz"
     license "MIT"
+    version "latest"
   
     livecheck do
       url "https://registry.npmjs.org/@sprucelabs/spruce-cli/latest"
