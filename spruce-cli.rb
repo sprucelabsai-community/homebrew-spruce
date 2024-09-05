@@ -1,6 +1,6 @@
 class SpruceCli < Formula
     require "language/node"
-    desc "Spruce CLI tool"
+    desc "The SpruceCLI is a command line tool for working with Spruce Platform."
     homepage "https://github.com/sprucelabsai-community/spruce-cli-workspace"
     license "MIT"
   
