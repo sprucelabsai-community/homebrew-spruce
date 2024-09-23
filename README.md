@@ -5,6 +5,6 @@ This is a tap for the [SpruceCLI](https://developer.spruce.bot/concepts/spruce-c
 ## Installation
 
 ```bash
-brew tap sprucelabs-community/homebrew-spruce
+brew tap sprucelabsai-community/spruce
 brew install spruce
 ```
